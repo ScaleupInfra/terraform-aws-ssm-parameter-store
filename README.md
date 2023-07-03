@@ -103,7 +103,8 @@ Destroy Infrastructrre  dependencies
 
 ## Support
 
-Come join our Open Source Community on Slack. It's completely FREE! Our community is the perfect platform for infrastructure enthusiasts like you. Engage in discussions, seek advice, share your ideas, and collaborate with fellow community members to build scalable and robust infrastructure solutions. Don't miss out on this opportunity to be a part of our thriving community!
+Come join our Open Source Community on [Slack](https://app.slack.com/huddle/T05EL2WSB2M/C05EL2WTMA5). It's completely FREE! Our community is the perfect platform for infrastructure enthusiasts like you. Engage in discussions, seek advice, share your ideas, and collaborate with fellow community members to build scalable and robust infrastructure solutions. Don't miss out on this opportunity to be a part of our thriving community!
+
 
 
 
