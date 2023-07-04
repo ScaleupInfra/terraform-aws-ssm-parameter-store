@@ -31,11 +31,6 @@ variable "tier" {
   description = "The tier of the parameter."
 }
 
-variable "key_id" {
-  type        = string
-  description = "The KMS key id or arn for encrypting a SecureString."
-}
-
 variable "overwrite" {
   type        = bool
   description = "Overwrite an existing parameter."
