@@ -14,16 +14,19 @@ variable "ssm_parameter_names" {
 variable "type" {
   type        = string
   description = "The type of the parameter."
+  default = "String"
 }
 
 variable "value" {
   type        = string
   description = "The value of the parameter."
+  default = "my_name_is_tushar"
 }
 
 variable "description" {
   type        = string
   description = "The description of the parameter."
+  default = "This is my parameter description."
 }
 
 variable "tier" {
